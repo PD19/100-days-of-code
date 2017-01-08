@@ -10,11 +10,11 @@
 
 ### Day 1: January 7, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started the JavaScript30 curriculum, learned about keyboard keyCodes, and how to isolate keys using functions  to get the desired output. I'm halfway through the JavaScript Drum Kit exercise.
 
-**Thoughts**
+**Thoughts** Until now, I hadn't experimented with sound files (.wav) at all. I didn't expect it to be so intricate, but once I got the hang of it, things went smoothly from there.
 
-**Link(s) to work**
+**Link(s) to work** [JavaScript 30 Challenge] (https://javascript30.com/account/access/584b15b499ec21353f30ca0c/view/6cf22385d8)
 
 
 
