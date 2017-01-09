@@ -18,8 +18,8 @@
 
 ### Day 2: January 8, 2017
 
-**Today's Progress**:
+**Today's Progress**: I brushed up on JS algorithm scripting over at Freecodecamp, then read through the first chapter of Eloquent JS, focusing on logical operators.
 
-**Thoughts:**
+**Thoughts:** It's good to unplug from purely coding for hours at a time to read about how things are supposed to work.
 
-**Link to work:**
+**Link to work:** [Eloquent JS] (http://eloquentjavascript.net/01_values.html)
