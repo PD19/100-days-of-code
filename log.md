@@ -16,5 +16,10 @@
 
 **Link(s) to work** [JavaScript 30 Challenge] (https://javascript30.com/account/access/584b15b499ec21353f30ca0c/view/6cf22385d8)
 
+### Day 2: January 8, 2017
 
+**Today's Progress**:
 
+**Thoughts:**
+
+**Link to work:**
