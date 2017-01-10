@@ -20,6 +20,14 @@
 
 **Today's Progress**: I brushed up on JS algorithm scripting over at Freecodecamp, then read through the first chapter of Eloquent JS, focusing on logical operators.
 
-**Thoughts:** It's good to unplug from purely coding for hours at a time to read about how things are supposed to work.
+**Thoughts** It's good to unplug from purely coding for hours at a time to read about how things are supposed to work.
 
-**Link to work:** [Eloquent JS] (http://eloquentjavascript.net/01_values.html)
+**Link to work** [Eloquent JS] (http://eloquentjavascript.net/01_values.html)
+
+### Day 3: January 9, 2017
+
+**Today's Progress**: I set up an account on Codewars, then revived my account over at Codingame. Curiosity about programming video games initially piqued my interest re: coding. 
+
+**Thoughts** Games are fun. At times, coding feels like getting a root canal while tapdancing on hot coals. Using a game environment to refine my skills is more stimulating than watching error messages flash across the screen.
+
+**Link(s) to work** [Codewars] (https://www.codewars.com/users/PD19), [Codingame] (https://www.codingame.com)
