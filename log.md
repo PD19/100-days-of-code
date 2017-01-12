@@ -31,3 +31,19 @@
 **Thoughts** Games are fun. At times, coding feels like getting a root canal while tapdancing on hot coals. Using a game environment to refine my skills is more stimulating than watching error messages flash across the screen.
 
 **Link(s) to work** [Codewars] (https://www.codewars.com/users/PD19), [Codingame] (https://www.codingame.com)
+
+### Day 4: January 10, 2017
+
+**Today's Progress**: I read through the second chapter of Eloquent JS, which focuses on program structure and how to construct clean, proper code when writing programs.
+
+**Thoughts** There's truth to the old saying that the easiest solution is often the simplest. The less code involved when writing a program, the better. Less can go wrong. Fewer of those nasty error messages too.
+
+**Link to work** [Eloquent JS] (http://eloquentjavascript.net/02_program_structure.html)
+
+### Day 5, January 11, 2017
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link to work**
