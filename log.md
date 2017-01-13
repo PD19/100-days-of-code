@@ -48,7 +48,15 @@
 
 **Link to work** [Eloquent JS] (http://eloquentjavascript.net/03_functions.html)
 
-### Day 5, January 12, 2017
+### Day 6, January 12, 2017
+
+**Today's Progress**: I revived my Khan Academy account and revisited my Math and HTML progress. 
+
+**Thoughts** Khan Academy is a great environment, and one I wish I hadn't forgotten about.
+
+**Link to work** [Khan Academy] (https://www.khanacademy.org/profile/Codelad/)
+
+### Day 7, January 13, 2017
 
 **Today's Progress**:
 
