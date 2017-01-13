@@ -44,7 +44,7 @@
 
 **Today's Progress**: I read through the third chapter of Eloquent JS, which focuses on functions. Then I went fished out my old coding binder and went over some of the basic functions I constructed in the past, such as converting Celsius to Farenheit and back again.
 
-**Thoughts** 
+**Thoughts** A lot of revision today. 
 
 **Link to work** [Eloquent JS] (http://eloquentjavascript.net/03_functions.html)
 
