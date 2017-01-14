@@ -58,6 +58,14 @@
 
 ### Day 7, January 13, 2017
 
+**Today's Progress**: Worked through more of the Khan Academy HTML and CSS curriculum.
+
+**Thoughts** It's easier to digest how to apply CSS once I've had a long look at the source code of other simple sites, such as portfolio pages. Definitely looking to apply it to some ideas that I'm mulling over.
+
+**Link to work** [Khan Academy] (https://www.khanacademy.org/profile/Codelad/)
+
+### Day 8, January 14, 2017
+
 **Today's Progress**:
 
 **Thoughts**
