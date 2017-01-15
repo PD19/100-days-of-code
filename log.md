@@ -66,8 +66,16 @@
 
 ### Day 8, January 14, 2017
 
+**Today's Progress**: Did more math and CSS stuff over at Khan Academy before I headed over to my Codepen account to brush up on my grasp of Bootstrap. 
+
+**Thoughts** The carousel is perfect for a rudimentary profile page, so I'll probably include it in my final design when I tackle it.
+
+**Link to work** [Codepen] (http://codepen.io/Codelad/pen/GrjJrO)
+
+### Day 8, January 15, 2017
+
 **Today's Progress**:
 
 **Thoughts**
 
-**Link to work**
+**Link to work** 
