@@ -72,7 +72,15 @@
 
 **Link to work** [Codepen] (http://codepen.io/Codelad/pen/GrjJrO)
 
-### Day 8, January 15, 2017
+### Day 9, January 15, 2017
+
+**Today's Progress**: I read through the fourth chapter of Eloquent JS, which focuses on data structures, objects, and arrays.
+
+**Thoughts**
+
+**Link to work** [Eloquent JS] (http://eloquentjavascript.net/04_data.html)
+
+### Day 10, January 16, 2017
 
 **Today's Progress**:
 
