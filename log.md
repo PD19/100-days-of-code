@@ -82,6 +82,14 @@
 
 ### Day 10, January 16, 2017
 
+**Today's Progress**: Fiddled around with some ideas for the Portfolio Profile Page, and did some reading about CSS. Background images that take up the entire page are definitely my style.
+
+**Thoughts**
+
+**Link to work** [UI/UX Designs] (http://www.cssdesignawards.com/articles/20-superlative-ui-ux-designs-prototypes-concepts/73/)
+
+### Day 11, January 17, 2017
+
 **Today's Progress**:
 
 **Thoughts**
