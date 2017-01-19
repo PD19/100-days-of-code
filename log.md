@@ -98,6 +98,14 @@
 
 ### Day 12, January 18, 2017
 
+**Today's Progress**: Plugging through my old notes on the JS canvas, and I found an introductory article on it.
+
+**Thoughts** It's a quick, good read on making shapes. Rudimentary stuff, but I'd rather get the syntax perfect by reviewing it until it sticks permanently.
+
+**Link to work** [Canvas from Scratch] (https://code.tutsplus.com/tutorials/canvas-from-scratch-introducing-canvas--net-18290)
+
+### Day 13, January 19, 2017
+
 **Today's Progress**: 
 
 **Thoughts** 
