@@ -90,8 +90,8 @@
 
 ### Day 11, January 17, 2017
 
-**Today's Progress**:
+**Today's Progress**: Found an article outlining CSS Selectors. Solid read, and I fiddled around with some of them.
 
-**Thoughts**
+**Thoughts** CSS can be intimidating. Especially if you're not accustomed to the selectors that can conflict with each other.
 
-**Link to work** 
+**Link to work** [CSS Selectors] (https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
