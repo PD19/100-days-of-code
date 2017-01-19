@@ -95,3 +95,11 @@
 **Thoughts** CSS can be intimidating. Especially if you're not accustomed to the selectors that can conflict with each other.
 
 **Link to work** [CSS Selectors] (https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+### Day 12, January 18, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link to work**
