@@ -106,8 +106,8 @@
 
 ### Day 13, January 19, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Taking a deeper look at Data Analysis, I'm concentrating on how to construct graphs and charts, specifically Pie Charts.
 
-**Thoughts** 
+**Thoughts** Bar Graphs are pretty straightforward, but pie charts are a pain. I had no idea there was so much that could go awry. I don't have anything polished to show for my efforts just yet, but I'll definitely try to have something up on my Codepen by tomorrow. Anything to preoccupy myself from Trump's inauguration. 
 
 **Link to work**
