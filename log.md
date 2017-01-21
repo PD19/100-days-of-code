@@ -111,3 +111,19 @@
 **Thoughts** Bar Graphs are pretty straightforward, but pie charts are a pain. I had no idea there was so much that could go awry. I don't have anything polished to show for my efforts just yet, but I'll definitely try to have something up on my Codepen by tomorrow. Anything to preoccupy myself from Trump's inauguration. 
 
 **Link to work**
+
+### Day 14, January 20, 2017
+
+**Today's Progress**: I re-visited my account at Code.org and worked through the programming courses.
+
+**Thoughts** The Star Wars twist on Hour of Code is interesting, and I like the progressively challenging courses that they offer.
+
+**Link to work** [Code.org] (https://studio.code.org/)
+
+### Day 15, January 21, 2017
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link to work**
