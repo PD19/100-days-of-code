@@ -116,9 +116,9 @@
 
 **Today's Progress**: I re-visited my account at Code.org and worked through the programming courses.
 
-**Thoughts** The Star Wars twist on Hour of Code is interesting, and I like the progressively challenging courses that they offer.
+**Thoughts** The Star Wars twist on Hour of Code is interesting, and I like the progressively challenging courses that they offer. I cobbled a game together too.
 
-**Link to work** [Code.org] (https://studio.code.org/, https://studio.code.org/c/326749003)
+**Link to work** [Code.org] (https://studio.code.org/) [Star Wars Game] (https://studio.code.org/c/326749003)
 
 ### Day 15, January 21, 2017
 
