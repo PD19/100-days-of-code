@@ -118,9 +118,33 @@
 
 **Thoughts** The Star Wars twist on Hour of Code is interesting, and I like the progressively challenging courses that they offer. I cobbled a game together too.
 
-**Link to work** [Code.org] (https://studio.code.org/) [Star Wars Game] (https://studio.code.org/c/326749003)
+**Link to work** [Code.org] (https://studio.code.org/), [Star Wars Game] (https://studio.code.org/c/326749003)
 
 ### Day 15, January 21, 2017
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link to work**
+
+### Day 16, January 22, 2017
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link to work**
+
+### Day 17, January 23, 2017
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link to work**
+
+### Day 18, January 24, 2017
 
 **Today's Progress**: 
 
