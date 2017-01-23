@@ -126,7 +126,7 @@
 
 **Thoughts** The computer almost died on me, so instead of punching out lines of code, I wrote them out by hand. 
 
-**Link to work** [Eloquent JS] (http://eloquentjavascript.net/05_higher_order.html_
+**Link to work** [Eloquent JS] (http://eloquentjavascript.net/05_higher_order.html)
 
 ### Day 16, January 22, 2017
 
