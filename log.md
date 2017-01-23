@@ -122,17 +122,17 @@
 
 ### Day 15, January 21, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Read through the 5th chapter of Eloquent JS, which encompasses Higher-Order Functions.
 
-**Thoughts**
+**Thoughts** The computer almost died on me, so instead of punching out lines of code, I wrote them out by hand. 
 
-**Link to work**
+**Link to work** [Eloquent JS] (http://eloquentjavascript.net/05_higher_order.html_
 
 ### Day 16, January 22, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Switched between Khan Academy and code.org to get some coding and math done. I don't have a project to show for it, but the environment provides solid challenges and tutorial videos.
 
-**Thoughts**
+**Thoughts** The connection between math and coding will always feel eerie to me. Once you've got the hang of it, its smooth sailing, but I definitely understand why functions like Math.random() can seem daunting. So much can go wrong in a hurry.
 
 **Link to work**
 
