@@ -138,13 +138,21 @@
 
 ### Day 17, January 23, 2017
 
+**Today's Progress**: I started transferring some of my freeCodeCamp Bonfire challenges onto a separate repository, and even found some mistakes in my original notes. 
+
+**Thoughts** Finding errors in my old code was embarassing, but I would much rather learn from it than hitch it out of sight. 
+
+**Link to work** [FreeCodeCamp Code] (https://github.com/PD19/FreeCodeCamp-Code)
+
+### Day 18, January 24, 2017
+
 **Today's Progress**: 
 
 **Thoughts**
 
 **Link to work**
 
-### Day 18, January 24, 2017
+### Day 19, January 25, 2017
 
 **Today's Progress**: 
 
