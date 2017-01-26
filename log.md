@@ -146,13 +146,21 @@
 
 ### Day 18, January 24, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Today was a reading day, and I outlined a bunch of things that I'm going to use to make my profile portfolio page. 
 
 **Thoughts**
 
 **Link to work**
 
 ### Day 19, January 25, 2017
+
+**Today's Progress**: I added more of the Bonfire Challenges. And found even mistakes than before.
+
+**Thoughts** It was also Mental Health Awareness day, a solid initiative that deserves far more attention and funding than it currently gets. #BellLetsTalk 
+
+**Link to work** [FreeCodeCamp Code] (https://github.com/PD19/FreeCodeCamp-Code)
+
+### Day 20, January 26, 2017
 
 **Today's Progress**: 
 
