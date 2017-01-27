@@ -162,8 +162,17 @@
 
 ### Day 20, January 26, 2017
 
+**Today's Progress**: Tackled two more Bonfire Challenges. The first involved truncating a string which resulted in me discovering that I had nothing on Ternary Operators (? :) in my notes. The second involved splitting an array in half, then pushing the resulting values into separate arrays altogether.
+
+**Thoughts** A Ternary Operator is a good shortcut when dealing with conditionals. I'll definitely be looking to use them more going forward.
+
+**Link to work** [FreeCodeCamp Code] (https://github.com/PD19/FreeCodeCamp-Code)
+
+### Day 21, January 27, 2017
+
 **Today's Progress**: 
 
 **Thoughts**
 
 **Link to work**
+
