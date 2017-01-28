@@ -170,9 +170,16 @@
 
 ### Day 21, January 27, 2017
 
+**Today's Progress**: I revisited a simple enough Bonfire Challenge involving slicing and splicing.
+
+**Thoughts**
+
+**Link to work** [FreeCodeCamp Code] (https://github.com/PD19/FreeCodeCamp-Code)
+
+### Day 22, January 28, 2017
+
 **Today's Progress**: 
 
 **Thoughts**
 
 **Link to work**
-
